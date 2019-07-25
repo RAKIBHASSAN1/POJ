@@ -1,0 +1,14 @@
+#include<iostream>
+#include<cstdio>
+#include<iostream>
+using namespace std;
+int main()
+{
+int i,j,m;
+cin>>i>>j;
+if(i>=0&&j<=10)
+{
+m=i+j;
+cout<<m<<endl;
+}
+}
